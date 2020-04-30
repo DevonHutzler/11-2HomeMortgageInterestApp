@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mortgage Loan Interest</string>
+    <string name="title">Home Mortgage Interest</string>
+    <string name="payments">Monthly Payments</string>
+    <string name="years">Number of Years (10/20/30)</string>
+    <string name="amount">Inital Principal Amount of Loan</string>
+    <string name="button">Calculate</string>
+</resources>
